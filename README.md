@@ -12,4 +12,4 @@ ou execute o seguinte comando no terminal:
 - Realize qualquer atualização necessária ao sucesso do projeto.
 - Os campos de valores devem ser apresentados com formatação de moeda: R$.
 - É permitida a adição de outros scripts que forem necessários ao projeto.
-- Ao final da avaliação, compacte o arquivo como zip e o adicione como resposta á avaliação.
+- Ao final da avaliação, compacte a pasta do projeto como zip e o adicione como resposta á avaliação no ClassRoom.
